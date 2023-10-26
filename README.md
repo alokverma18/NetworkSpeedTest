@@ -38,3 +38,10 @@ Note: The internet speed tester may not give the most accurate result depending 
 
 ![HTML5](./assets/html.svg) ![CSS](./assets/css.svg) ![JAVASCRIPT](./assets/javascript.svg)
 
+
+## Contributors
+<a href="https://github.com/alokverma18/NetworkSpeedTest/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=alokverma18/NetworkSpeedTest" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
