@@ -44,4 +44,4 @@ Note: The internet speed tester may not give the most accurate result depending 
   <img src="https://contrib.rocks/image?repo=alokverma18/NetworkSpeedTest" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+
